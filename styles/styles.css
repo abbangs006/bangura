@@ -94,12 +94,14 @@ span{
 div button {
     background-color: green;
     color: white;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
     border-color: gren;
     box-shadow: none;
     border-color: green;
     position: absolute;
-    right: 10px;
+    right: 2px;
+    width: 70px
     bottom: 10px;
+
 }
