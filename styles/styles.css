@@ -99,10 +99,11 @@ div button {
     box-shadow: none;
     border-color: green;
     position: absolute;
-    right: 2px;
-    top: 5px;
+    left: 2px;
+    bottom: 5px;
 
 }
+
 
 
 
