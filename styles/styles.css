@@ -13,11 +13,10 @@ nav {
 footer{
     background-color: #15023a;
     padding: 10px 20px;
-    margin-top: 20%;
+    margin: 0;
     color: #979797;
     text-align: center;
     position: relative;
-    margin-bottom: 0;
 }
 nav ul {
   list-style: none;
@@ -105,3 +104,4 @@ div button {
     bottom: 10px;
 
 }
+
